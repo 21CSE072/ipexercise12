@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+<book>
+    <bookid>1</bookid>
+    <name>hear yourself</name>
+    <price>200</price>
+    <author>prem rawat</author>
+</book>
+
+<book>
+    <bookid>2</bookid>
+    <name>a passage to india</name>
+    <price>300</price>
+    <author>foster</author>
+</book>
+
+<book>
+    <bookid>3</bookid>
+    <name>a revenue stamp</name>
+    <price>400</price>
+    <author>amritha</author>
+</book>
+
+<book>
+    <bookid>4</bookid>
+    <name>tom thonas</name>
+    <price>500</price>
+    <author>henry fielding</author>
+</book>
+
+<book>
+    <bookid>5</bookid>
+    <name>wings of fire</name>
+    <price>900</price>
+    <author>abdulkalam</author>
+</book>
+</books>
